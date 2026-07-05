@@ -1,0 +1,9 @@
+# cross_talk:
+#   reqs: '生成中文的相声，故事要符合客观存在，以中国为背景，避免列举其他国家的例子，大概四五十句话'
+#   audio_path: 'dataset/cross_talk/英文脱口秀.wav'
+#   dou_gen: 'dataset/cross_talk/郭德纲'
+#   peng_gen: 'dataset/cross_talk/付航'
+#   output: "dataset/user_output_video/output_video.mp4"
+
+##  Video Assets Directory
+#   video_source_dir: "dataset/user_video/

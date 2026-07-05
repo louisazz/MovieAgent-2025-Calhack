@@ -1,0 +1,5 @@
+# rhythm_agent:
+#   audio: "dataset/user_music/xxxxx.mp3"
+#   idea: "Capture more scenes of conflicts and battles between Nezha and Shen Gongbao (black-robed), Dragon Prince Ao Bing (blue-robed), notice to describe every character's appearance."
+#   output: "dataset/user_output_video/rhythm_output_video.mp4"
+#   video_source_dir: "dataset/user_video/"

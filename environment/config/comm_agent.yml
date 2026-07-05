@@ -1,0 +1,5 @@
+#comm_agent:
+#  idea: "Write fluent commentary script with 1500 words."
+#  output: "dataset/user_output_video/comm_output_video_subtitle.mp4"
+#  video_source_dir: "dataset/user_video/"
+#  source_text: "dataset/user_text_source/harry_potter.txt"

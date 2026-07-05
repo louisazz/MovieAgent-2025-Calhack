@@ -1,0 +1,19 @@
+# mad_svc:
+## The number of notes in the MIDI file must match the word count of the lyrics. Please refer to the samples provided in the dataset.
+#   midi: "dataset/mad_svc/爱人错过.mid"
+#   lyrics: "dataset/mad_svc/爱人错过.txt"
+
+##  Target voice timbre for cloning
+#   target: "dataset/mad_svc/派大星.wav"
+
+#   bgm: "dataset/mad_svc/爱人错过-bgm.wav"
+#   reqs: |
+#         - 演唱者：派大星
+#         - 以**论文中稿难，遇到为难的审稿人**为主题
+#         - 模仿原歌词的句式结构，只替换具体内容
+#         - 需要提及审稿人是如何为难的，可以从创新、实验等角度出发
+#         - 可以抒发投稿换个审稿人，命运太折磨这类情感
+#   output: "dataset/user_output_video/output_video.mp4"
+
+##  Video Assets Directory
+#   video_source_dir: "dataset/user_video/"

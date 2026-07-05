@@ -1,0 +1,8 @@
+# talk_show:
+#   reqs: '无'
+#   audio_path: 'dataset/talk_show/郭德纲于谦双口.wav'
+#   target: 'dataset/talk_show/guodegang'
+#   output: "dataset/user_output_video/output_video.mp4"
+
+## Video Assets Directory
+#  video_source_dir: "dataset/user_video/"
